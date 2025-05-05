@@ -92,7 +92,7 @@ export default function SelonaPage() {
             </span>
             <button
               onClick={() => {
-                const address = "?";
+                const address = "9Ms4fTQGuacjPx1MTS7kG1asoH5ryTmdsHrMQ6A7pump";
                 const el = document.createElement("textarea");
                 el.value = address;
                 document.body.appendChild(el);
